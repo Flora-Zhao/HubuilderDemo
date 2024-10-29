@@ -1,4 +1,4 @@
-// ../../../../../OneDrive - BASF/Documents/HBuilderProjects/zhifou-uniapp/node_modules/@climblee/uv-ui/libs/function/test.js
+// ../../../../../OneDrive - BASF/Documents/HBuilderProjects/HubuilderDemo/node_modules/@climblee/uv-ui/libs/function/test.js
 function number(value) {
   return /^[\+-]?(\d+\.?\d*|\.\d+|\d\.\d+e\+\d+)$/.test(value);
 }
@@ -29,7 +29,7 @@ function empty(value) {
   return false;
 }
 
-// ../../../../../OneDrive - BASF/Documents/HBuilderProjects/zhifou-uniapp/node_modules/@climblee/uv-ui/libs/function/digit.js
+// ../../../../../OneDrive - BASF/Documents/HBuilderProjects/HubuilderDemo/node_modules/@climblee/uv-ui/libs/function/digit.js
 var _boundaryCheckingState = true;
 function strip(num, precision = 15) {
   return +parseFloat(Number(num).toPrecision(precision));
@@ -93,7 +93,7 @@ function round(num, ratio) {
   return result;
 }
 
-// ../../../../../OneDrive - BASF/Documents/HBuilderProjects/zhifou-uniapp/node_modules/@climblee/uv-ui/libs/function/index.js
+// ../../../../../OneDrive - BASF/Documents/HBuilderProjects/HubuilderDemo/node_modules/@climblee/uv-ui/libs/function/index.js
 function range(min = 0, max = 0, value = 0) {
   return Math.max(min, Math.min(max, Number(value)));
 }

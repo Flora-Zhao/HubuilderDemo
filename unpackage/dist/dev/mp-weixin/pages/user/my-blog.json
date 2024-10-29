@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uv-navbar": "../../node-modules/@climblee/uv-ui/components/uv-navbar/uv-navbar",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "uv-image": "../../node-modules/@climblee/uv-ui/components/uv-image/uv-image",
+    "uv-col": "../../node-modules/@climblee/uv-ui/components/uv-col/uv-col",
+    "uv-tags": "../../node-modules/@climblee/uv-ui/components/uv-tags/uv-tags",
+    "uv-row": "../../node-modules/@climblee/uv-ui/components/uv-row/uv-row",
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card",
+    "uv-modal": "../../node-modules/@climblee/uv-ui/components/uv-modal/uv-modal"
+  }
+}

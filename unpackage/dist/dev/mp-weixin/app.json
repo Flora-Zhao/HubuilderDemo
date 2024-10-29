@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/blog/list",
+    "pages/login/login",
+    "pages/user/user",
+    "pages/blog/add",
+    "pages/blog/detail",
+    "pages/user/my-blog"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "知否",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

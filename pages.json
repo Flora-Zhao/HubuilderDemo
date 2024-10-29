@@ -51,7 +51,7 @@
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},
-	"uniIdRouter": {},
+	"uniIdRouter": {}
 	// "tabBar": {
 	// 	"color": "#666",
 	// 	"selectedColor": "#fe9b1f",

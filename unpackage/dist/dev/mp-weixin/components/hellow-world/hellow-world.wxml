@@ -1,0 +1,1 @@
+<view><uni-card wx:if="{{a}}" u-i="073b7cd9-0" bind:__l="__l" u-p="{{a}}"></uni-card></view>

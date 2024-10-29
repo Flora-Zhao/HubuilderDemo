@@ -1,0 +1,18 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "hellow-world": "../../components/hellow-world/hellow-world",
+    "order-add": "../../components/order/order-add",
+    "user-add": "../../components/user/user-add",
+    "product-detail": "../../components/product-detail/product-detail",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button",
+    "uv-navbar": "../../node-modules/@climblee/uv-ui/components/uv-navbar/uv-navbar",
+    "uv-tabs": "../../node-modules/@climblee/uv-ui/components/uv-tabs/uv-tabs",
+    "uv-image": "../../node-modules/@climblee/uv-ui/components/uv-image/uv-image",
+    "uv-col": "../../node-modules/@climblee/uv-ui/components/uv-col/uv-col",
+    "uv-row": "../../node-modules/@climblee/uv-ui/components/uv-row/uv-row",
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card",
+    "tab-bar": "../../components/tab-bar/tab-bar"
+  }
+}

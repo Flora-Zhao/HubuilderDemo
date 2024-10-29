@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uv-navbar": "../../node-modules/@climblee/uv-ui/components/uv-navbar/uv-navbar",
+    "uv-image": "../../node-modules/@climblee/uv-ui/components/uv-image/uv-image",
+    "uv-col": "../../node-modules/@climblee/uv-ui/components/uv-col/uv-col",
+    "uv-text": "../../node-modules/@climblee/uv-ui/components/uv-text/uv-text",
+    "uv-row": "../../node-modules/@climblee/uv-ui/components/uv-row/uv-row",
+    "uv-icon": "../../node-modules/@climblee/uv-ui/components/uv-icon/uv-icon",
+    "uv-cell": "../../node-modules/@climblee/uv-ui/components/uv-cell/uv-cell",
+    "uv-cell-group": "../../node-modules/@climblee/uv-ui/components/uv-cell-group/uv-cell-group",
+    "tab-bar": "../../components/tab-bar/tab-bar"
+  }
+}

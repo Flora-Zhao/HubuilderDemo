@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "用户登录",
+  "usingComponents": {
+    "uv-image": "../../node-modules/@climblee/uv-ui/components/uv-image/uv-image",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form",
+    "uv-toast": "../../node-modules/@climblee/uv-ui/components/uv-toast/uv-toast"
+  }
+}

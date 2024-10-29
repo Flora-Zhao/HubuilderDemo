@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uv-navbar": "../../node-modules/@climblee/uv-ui/components/uv-navbar/uv-navbar",
+    "uv-input": "../../node-modules/@climblee/uv-ui/components/uv-input/uv-input",
+    "uv-form-item": "../../node-modules/@climblee/uv-ui/components/uv-form-item/uv-form-item",
+    "uv-textarea": "../../node-modules/@climblee/uv-ui/components/uv-textarea/uv-textarea",
+    "uv-button": "../../node-modules/@climblee/uv-ui/components/uv-button/uv-button",
+    "uv-form": "../../node-modules/@climblee/uv-ui/components/uv-form/uv-form",
+    "uv-action-sheet": "../../node-modules/@climblee/uv-ui/components/uv-action-sheet/uv-action-sheet",
+    "uv-toast": "../../node-modules/@climblee/uv-ui/components/uv-toast/uv-toast"
+  }
+}

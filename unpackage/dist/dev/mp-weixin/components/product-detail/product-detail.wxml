@@ -1,0 +1,1 @@
+<view><uni-card wx:if="{{a}}" u-s="{{['d']}}" u-i="3514380e-0" bind:__l="__l" u-p="{{a}}"> 商品详情 </uni-card></view>

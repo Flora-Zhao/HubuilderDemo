@@ -1,0 +1,15 @@
+{
+  "hash": "c24993e6",
+  "configHash": "9bf81c32",
+  "lockfileHash": "f2c61cd8",
+  "browserHash": "f8205020",
+  "optimized": {
+    "@climblee/uv-ui/libs/function/index.js": {
+      "src": "../../../../../node_modules/@climblee/uv-ui/libs/function/index.js",
+      "file": "@climblee_uv-ui_libs_function_index__js.js",
+      "fileHash": "bd39cb68",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
